@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sapaluvo@gmail.com
+	name = Luvo Sapa
